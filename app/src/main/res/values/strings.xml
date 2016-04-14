@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Saludos</string>
+    <string name="saludo">Hello! What is your name?</string>
+    <string name="introducir_nombre">Introduce a name</string>
+    <string name="cambiar_nombre">Change name</string>
+    <string name="nombre_no_introducido">Introduce your name</string>
+    <string name="tittle_activity_nombre"> Choose a name</string>
+</resources>
